@@ -1,4 +1,4 @@
-const spinner =  ["\r| ", "\r/", "\r-", "\r\\", "\r/", "\r-", "\r\\", "\r|"]
+const spinner =  ["\r| ", "\r/ ", "\r- ", "\r\\ ", "\r| ", "\r/ ", "\r- ", "\r\\ ", "\r| "]
 
 let hold = 0
 for (const turn of spinner){
